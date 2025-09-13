@@ -133,6 +133,7 @@ The grep is the most powerful and used filter in a Linux system. The 'grep' stan
 
 Syntax: command | grep <search word>
 
+<img width="754" height="160" alt="Screenshot 2025-09-13 160507" src="https://github.com/user-attachments/assets/cc4e2be8-1d3c-4f9d-9d7d-cdfa821b2d0a" />
 
 ### 16)	tr Command
 
