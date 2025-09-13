@@ -1,4 +1,4 @@
-# Linux Commands
+# Ex-1:Linux Commands
 ## Aim:
 
 To study the execution of various Linux operating system commands.
