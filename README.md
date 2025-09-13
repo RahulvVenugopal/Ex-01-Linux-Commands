@@ -1,5 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6cf6252e-8287-44f3-bb50-41d958ade7db" /># Ex-01-Linux-Commands
-
 
 ## Aim:
 
