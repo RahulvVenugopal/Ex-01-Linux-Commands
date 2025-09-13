@@ -20,7 +20,8 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
-p<img width="745" height="141" alt="image" src="https://github.com/user-attachments/assets/1b5efee7-e386-485f-aea6-1f49003ff033" />
+
+<img width="745" height="141" alt="image" src="https://github.com/user-attachments/assets/1b5efee7-e386-485f-aea6-1f49003ff033" />
 
 
 ### 2)	pwd Command
@@ -28,6 +29,7 @@ p<img width="745" height="141" alt="image" src="https://github.com/user-attachme
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+
 <img width="733" height="65" alt="image" src="https://github.com/user-attachments/assets/f953fd28-3531-4fca-bf5f-39cf0ff28107" />
 
 ### 3)	mkdir Command
@@ -35,6 +37,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+
 <img width="754" height="58" alt="image" src="https://github.com/user-attachments/assets/77f1fa13-1bd1-4640-be65-beec78b932ef" />
 
 
@@ -43,6 +46,7 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+
 <img width="739" height="50" alt="image" src="https://github.com/user-attachments/assets/6be6a01f-e4cf-4ec8-b249-9177da70ddd7" />
 
 
@@ -51,6 +55,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+
 clear'<img width="747" height="64" alt="image" src="https://github.com/user-attachments/assets/c47b07c6-f203-4a2b-9cbe-de9a1e61453a" />
 
 
@@ -68,6 +73,8 @@ The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
 
+<img width="736" height="173" alt="Screenshot 2025-09-13 154841" src="https://github.com/user-attachments/assets/13be1d47-93b7-4c7c-bbe2-cf7b4ce4a4e8" />
+
 
 
 ### 8)	gedit Command
@@ -75,7 +82,8 @@ Syntax: cp <existing file name> <new file name>
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
-cl<img width="742" height="215" alt="image" src="https://github.com/user-attachments/assets/d4644d56-4977-499a-a11e-cee1fe1fedc5" />
+
+<img width="742" height="215" alt="image" src="https://github.com/user-attachments/assets/d4644d56-4977-499a-a11e-cee1fe1fedc5" />
 
 
 ### 9)	su Command
@@ -83,6 +91,7 @@ cl<img width="742" height="215" alt="image" src="https://github.com/user-attachm
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
+
 <img width="741" height="121" alt="image" src="https://github.com/user-attachments/assets/d3a921ea-3362-42ff-bc96-2329b995bf9f" />
 
 
@@ -92,6 +101,7 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
 <img width="749" height="60" alt="image" src="https://github.com/user-attachments/assets/736c1062-aac0-4ae7-b117-9979b288191d" />
 
  
@@ -108,6 +118,7 @@ Syntax: rename 's/old-name/new-name/' files
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 
 Syntax: head <file name>
+
 <img width="740" height="241" alt="image" src="https://github.com/user-attachments/assets/a82d96ee-8162-435b-bf64-a030c132ef62" />
 
 
@@ -116,6 +127,7 @@ Syntax: head <file name>
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+
 <img width="736" height="223" alt="image" src="https://github.com/user-attachments/assets/d67d1a34-83a4-4441-80de-36ca58e2dba1" />
 
  
@@ -124,6 +136,7 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+
 <img width="746" height="109" alt="image" src="https://github.com/user-attachments/assets/bb3dc135-1240-417c-af4c-73421a64a74c" />
 
 
@@ -140,6 +153,7 @@ Syntax: command | grep <search word>
 The tr command is used to translate the file content like from lower case to upper case.
 
 Syntax: command | tr <'old'> <'new'>
+
 <img width="749" height="117" alt="image" src="https://github.com/user-attachments/assets/b44e5da0-1fd7-451c-b55b-1528842298b9" />
 
 ### 17)	chmod Command
@@ -147,6 +161,7 @@ Syntax: command | tr <'old'> <'new'>
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 
 Syntax: chmod<options><permissions><file_name>
+
 <img width="745" height="185" alt="image" src="https://github.com/user-attachments/assets/e573ebd0-10ca-4f98-b155-437c0e3dcbb3" />
 
 ### 18)	tar Command
@@ -162,6 +177,7 @@ $ tar xvzf file.tar *.c
 The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
+
 <img width="683" height="53" alt="image" src="https://github.com/user-attachments/assets/c5808ceb-a70d-43c0-8b22-dd254d5c69b0" />
 
 
@@ -170,6 +186,7 @@ Syntax: chown owner_name file_name
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
 <img width="611" height="51" alt="image" src="https://github.com/user-attachments/assets/ebb6a6b6-70ea-40f9-bdc7-6bf355dd3d9c" />
 
 
@@ -178,6 +195,7 @@ Syntax: make [-f makefile][options]…….[targets]….
 The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
+
 <img width="735" height="443" alt="image" src="https://github.com/user-attachments/assets/74b70012-90b3-4816-bbc1-5c3e73e50f34" />
 
 ### 22)	chmod 777 Command
@@ -186,6 +204,7 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
+
 <img width="727" height="147" alt="image" src="https://github.com/user-attachments/assets/30eb9620-2ae0-430f-a50a-1d34ad32e9b1" />
  
 ### 23)	host Command
@@ -193,6 +212,7 @@ $chmod -R 777 /path/to/file/or/folder
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
+
 <img width="748" height="83" alt="image" src="https://github.com/user-attachments/assets/ffecda0c-f2dc-4a32-b7e5-64a506477ecf" />
 
 
@@ -217,6 +237,7 @@ Syntax:sort <file name>
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
+
 <img width="741" height="249" alt="image" src="https://github.com/user-attachments/assets/08faa3d9-52d2-4f3d-b379-a190c7c5b8de" />
 
 
@@ -233,6 +254,7 @@ Syntax: clear
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
+
 <img width="736" height="139" alt="image" src="https://github.com/user-attachments/assets/4ad1b042-dfcc-4dae-ba11-4afb34ab8273" />
 
  
@@ -241,6 +263,7 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
 <img width="737" height="272" alt="image" src="https://github.com/user-attachments/assets/09bd3471-df3c-4abf-9992-9cf698e290d0" />
 
 ### 30)	find Command
